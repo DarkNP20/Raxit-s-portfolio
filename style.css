@@ -1,0 +1,159 @@
+body {
+    background-color: #176d69;
+    color: black;
+    font-family: "poppins", sans-serif;
+    height: 1000px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #e2d1f9;
+    height: 55px;
+}
+
+.left span {
+    font-size: 30px;
+}
+
+#Raxit {
+    color: #e2d1f9;
+}
+
+#name {
+    margin: 130px -40px;
+    font-size: 42px;
+}
+
+#element {
+    color: #e2d1f9;
+}
+
+.right ul {
+    display: flex;
+    justify-content: center;
+}
+
+.right ul li {
+    text-overflow: none;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 23px;
+}
+
+.right ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.right ul li a:hover {
+    background-color: #d9d0e4;
+    font-size: 1.1rem;
+}
+
+.first {
+    display: flex;
+    justify-content: space-around;
+    margin: 48px 0;
+}
+
+.first>div {
+    width: 30%;
+}
+
+.leftsection {
+    font-size: 3rem;
+}
+
+.rightsection img {
+    width: 110%;
+    margin: 30px -44px;
+    background: transparent;
+}
+
+hr {
+    margin: 37px;
+}
+
+.second {
+    font-size: 50px;
+    margin: 0 450px;
+}
+
+.second .box {
+    height: 100px;
+    margin: 0px;
+}
+
+footer {
+    background-color: #103331;
+    color: #d9d0e4;
+    margin: 500px 0px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+footer {
+    height: 250px;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.footer {
+    margin: 63px 48px;
+}
+.footer ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.footer-rights {
+    margin: 200px 0;
+    margin-left: -447px;
+}
+.footer-rights p a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.po {
+    margin: 12px -111px;
+    margin-right: -111px;
+    margin-top: 13px;
+    font-size: 22px;
+}
+
+.btn {
+    margin: 0px;
+    font-size: 20px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.btn a {
+    text-decoration: none;
+}
+
+.btn2 {
+    margin: 0px;
+    font-size: 21px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.btn2 a {
+    text-decoration: none;
+}
